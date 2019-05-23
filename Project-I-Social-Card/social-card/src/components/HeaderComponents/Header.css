@@ -1,1 +1,21 @@
 /* All styles for your header Components live here */
+
+.header-container {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+}
+
+.lambda {
+    width: 60px;
+    height: 60px;
+}
+
+.header-title {
+    display: flex;
+}
+
+.header-content {
+    display: none;
+}
