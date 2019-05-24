@@ -1,0 +1,17 @@
+.top-content {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+}
+
+.wider button {
+    height: 80px;
+    width: 400px;
+    font-size: 40px;
+}
+
+.narrow button {
+    width: 100px;
+    background-color: red;
+    color: white;
+}
