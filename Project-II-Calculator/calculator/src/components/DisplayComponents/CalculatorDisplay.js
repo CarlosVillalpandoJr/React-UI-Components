@@ -1,7 +1,7 @@
 import React from 'react';
 import './Display.css';
 
-const CaluclatorDisplay = props => {
+const CalculatorDisplay = props => {
     return (
         <div className='calc-display'>
             <p>{props.total}</p>
